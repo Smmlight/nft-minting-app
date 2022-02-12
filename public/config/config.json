@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x549ccA68C4FaC56667dB1688899238ae46D5D22a",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x549ccA68C4FaC56667dB1688899238ae46D5D22aoh",
+  "CONTRACT_ADDRESS": "0xaC0261FEB6b9020Cd96c95228d7d1407BB9f7Fd4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xaC0261FEB6b9020Cd96c95228d7d1407BB9f7Fd4",
   "NETWORK": {
     "NAME": "Rinkeby Test Network",
     "SYMBOL": "ETH",
@@ -9,8 +9,8 @@
   "NFT_NAME": "VeeFriends",
   "SYMBOL": "VEE",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 100000000000000,
-  "DISPLAY_COST": 0.0001,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/shu",
